@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usama Tanveer</h1>
-<h3 align="center">🎯 Senior Python & AI Engineer | 🚀 8+ years shipping real-world impact with code 📍 Based in Leicester, UK | 📫 usamatanveer.up@gmail.com</h3>
+<h3 align="center">🎯 Senior Python & AI Engineer | 🚀 8+ years shipping real-world impact with code 📍 Based in Leicester, UK | </h3>
+<h3 align="center">📫 usamatanveer.up@gmail.com </h3>
 
 - 🔭 I’m currently working on **intelligent systems that convert complexity into clarity**
 
